@@ -1,3 +1,3 @@
 # Jenkins: Integração Contínua
 
-Curso Alura.
+Curso Alura Jenkins: Integração contínua
